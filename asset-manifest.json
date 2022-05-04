@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f50a5efb.chunk.css",
+    "main.js": "./static/js/main.a9f90a17.chunk.js",
+    "main.js.map": "./static/js/main.a9f90a17.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9604f4c7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9604f4c7.js.map",
+    "static/css/2.1edafa02.chunk.css": "./static/css/2.1edafa02.chunk.css",
+    "static/js/2.282f6be9.chunk.js": "./static/js/2.282f6be9.chunk.js",
+    "static/js/2.282f6be9.chunk.js.map": "./static/js/2.282f6be9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.27d848a184063728296dac4d1679d654.js": "./precache-manifest.27d848a184063728296dac4d1679d654.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.1edafa02.chunk.css.map": "./static/css/2.1edafa02.chunk.css.map",
+    "static/css/main.f50a5efb.chunk.css.map": "./static/css/main.f50a5efb.chunk.css.map",
+    "static/js/2.282f6be9.chunk.js.LICENSE.txt": "./static/js/2.282f6be9.chunk.js.LICENSE.txt",
+    "static/media/birthdayCake.png": "./static/media/birthdayCake.acbdf897.png",
+    "static/media/customisation.png": "./static/media/customisation.febe3427.png",
+    "static/media/diy.png": "./static/media/diy.97c5fa5b.png",
+    "static/media/drivedadscar.jpg": "./static/media/drivedadscar.75c062d3.jpg",
+    "static/media/logo_main.png": "./static/media/logo_main.d41d7131.png",
+    "static/media/maycars.png": "./static/media/maycars.6a170888.png",
+    "static/media/quiz_collection.png": "./static/media/quiz_collection.ff7da6a5.png",
+    "static/media/targetReward-b.png": "./static/media/targetReward-b.babc0314.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9604f4c7.js",
+    "static/css/2.1edafa02.chunk.css",
+    "static/js/2.282f6be9.chunk.js",
+    "static/css/main.f50a5efb.chunk.css",
+    "static/js/main.a9f90a17.chunk.js"
+  ]
+}
